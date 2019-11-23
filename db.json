@@ -8,7 +8,7 @@
   "profile": {
     "name": "typicode"
   },
-  "custom base groups" : {
+  "custombasegroups" : {
     "custom group female 2-11" : {
       "Female 2-5" : {
         "id" : 123
