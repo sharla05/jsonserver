@@ -14,41 +14,43 @@
   "profile": {
     "name": "typicode"
   },
-  "custom base groups" : {
-    "custom group female 2-11" : {
-      "Female 2-5" : {
-        "id" : 123
+  "custombasegroups": {
+    "custom base groups" : {
+      "custom group female 2-11" : {
+        "Female 2-5" : {
+          "id" : 123
+        },
+        "Female 6-8" : {
+          "id" : 123
+        },
+        "Female 9-11" : {
+          "id" : 123
+        }
       },
-      "Female 6-8" : {
-        "id" : 123
+      "custom group female 18-29 2+ Children" : {
+        "Female 18-20" : {
+          "id" : 123
+        },
+        "Female 21-24" : {
+          "id" : 123
+        },
+        "Female 25-29" : {
+          "id" : 123
+        },
+        "2+ Children" : {
+          "id" : 123
+        }
       },
-      "Female 9-11" : {
-        "id" : 123
-      }
-    },
-    "custom group female 18-29 2+ Children" : {
-      "Female 18-20" : {
-        "id" : 123
-      },
-      "Female 21-24" : {
-        "id" : 123
-      },
-      "Female 25-29" : {
-        "id" : 123
-      },
-      "2+ Children" : {
-        "id" : 123
-      }
-    },
-    "custom group male 50-65+" : {
-      "Male 50-54" : {
-        "id" : 123
-      },
-      "Male 55-64" : {
-        "id" : 123
-      },
-      "Male 65+" : {
-        "id" : 123
+      "custom group male 50-65+" : {
+        "Male 50-54" : {
+          "id" : 123
+        },
+        "Male 55-64" : {
+          "id" : 123
+        },
+        "Male 65+" : {
+          "id" : 123
+        }
       }
     }
   }
