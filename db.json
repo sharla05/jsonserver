@@ -17,6 +17,7 @@
   "custombasegroups": {
     "Custom Base Groups" : {
       "custom group female 2-11" : {
+        "id" : 377473,
         "Female 2-5" : {
           "id" : 123
         },
@@ -28,6 +29,7 @@
         }
       },
       "custom group female 18-29 2+ Children" : {
+        "id" : 377455,
         "Female 18-20" : {
           "id" : 123
         },
@@ -42,6 +44,7 @@
         }
       },
       "custom group male 50-65+" : {
+        "id" : 377454,
         "Male 50-54" : {
           "id" : 123
         },
